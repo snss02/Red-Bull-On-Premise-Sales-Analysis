@@ -8,7 +8,7 @@ The dataset included account-level sales information from 2017 to 2021 across mu
 
 Using Excel, I analyzed trends, account performance, product assortment impact, and marketing program effectiveness to understand what drives growth.
 
----
+
 
 ## Business Objective
 
@@ -20,7 +20,7 @@ To identify:
 - Whether wider product assortment improves performance  
 - Opportunities to improve declining accounts  
 
----
+
 
 ## Tools Used
 
@@ -31,7 +31,7 @@ To identify:
 - Conditional Formatting  
 - Data Visualization  
 
----
+
 
 ## Key Analysis Performed
 
@@ -46,7 +46,7 @@ Compared total sales growth from 2017 to 2021 across:
 
 **Insight:** Clubs showed the strongest growth, while Bars grew at a slower pace.
 
----
+
 
 ### 2. Best and Worst Performing Accounts
 
@@ -66,7 +66,6 @@ Analyzed the effect of offering:
 
 **Insight:** Accounts with broader assortment generally achieved higher sales.
 
----
 
 ### 4. Marketing & Promotion Effectiveness
 
@@ -79,7 +78,7 @@ Measured the relationship between sales and promotional programs such as:
 
 **Insight:** Menu inclusion and digital visibility were strongly linked with better sales performance.
 
----
+
 
 ## Key Recommendations
 
@@ -89,7 +88,7 @@ Measured the relationship between sales and promotional programs such as:
 - Replicate successful strategies from top-performing accounts  
 - Use menu inclusion and branded visibility to drive demand  
 
----
+
 
 ## Project Outcome
 
@@ -101,7 +100,7 @@ This project helped strengthen my skills in:
 - Turning raw data into actionable insights  
 - Presenting findings clearly for decision-making  
 
----
+
 
 ## Files Included
 
@@ -110,7 +109,7 @@ This project helped strengthen my skills in:
 - Presentation Slides  
 - README.md  
 
----
+
 
 ## About Me
 
